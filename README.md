@@ -32,5 +32,7 @@ Processamento de Documentos Word: Extrai dados de documentos Word e insere-os au
 
 ### Licença
 - Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
-     
+
+### Vídeo automação do projeto
+https://www.youtube.com/watch?v=OO7eniDGPr0
    
